@@ -1,6 +1,6 @@
 # 📄 PDF Question Answering Chatbot (RAG)
 
-🔗 **Live Demo:** https://student-performance-prediction-12.streamlit.app/
+🔗 **Live Demo:** https://pdf-rag-chatbot-12.streamlit.app/
 
 A Retrieval-Augmented Generation (RAG) app. Upload a PDF, ask questions in natural language, and get answers grounded in the document with **page-number citations**. Built with Python, Gemini (LLM and embeddings), FAISS and Streamlit.
 
